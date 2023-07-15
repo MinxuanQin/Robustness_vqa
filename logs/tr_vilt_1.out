@@ -1,0 +1,189 @@
+wandb: Currently logged in as: minxuan. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.15.5
+wandb: Run data is saved locally in /cluster/scratch/minqin/hf_vqa/CARETS/wandb/run-20230713_141844-m8un8j98
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run elated-shape-9
+wandb: ⭐️ View project at https://wandb.ai/minxuan/carets-antonym_consistency
+wandb: 🚀 View run at https://wandb.ai/minxuan/carets-antonym_consistency/runs/m8un8j98
+Begin of the test:  antonym_consistency
+Epoch: 0
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 12.214065223866298 min
+Epoch: 1
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 12.163232400248914 min
+Epoch: 2
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 11.734863650649398 min
+Epoch: 3
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 11.688405795583579 min
+Epoch: 4
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 11.645833554683486 min
+Epoch: 5
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 12.002757231281915 min
+Epoch: 6
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 11.917082599717348 min
+Epoch: 7
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 12.045589319750434 min
+Epoch: 8
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 12.059215469516737 min
+Epoch: 9
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  9984
+Running Time: 12.032128671616858 min
+Begin of the test:  ontological_consistency
+Epoch: 0
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 39.873681836666464 min
+Epoch: 1
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 38.91789923204924 min
+Epoch: 2
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 37.7915394656496 min
+Epoch: 3
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 39.27853360651643 min
+Epoch: 4
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 39.81865738401539 min
+Epoch: 5
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 40.12431182555156 min
+Epoch: 6
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 38.938107763783776 min
+Epoch: 7
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 39.87369880850117 min
+Epoch: 8
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 39.591820773633664 min
+Epoch: 9
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  31230
+Running Time: 39.076354935450944 min
+Begin of the test:  phrasal_invariance
+Epoch: 0
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  34650
+Running Time: 41.629617305699504 min
+Epoch: 1
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  34650
+Running Time: 42.34376188646614 min
+Epoch: 2
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  34650
+Running Time: 42.23479755836694 min
+Epoch: 3
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  34650
+Running Time: 41.52051825915114 min
+Epoch: 4
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+Complete predictions:  34650
+Running Time: 40.610799011916 min
+Epoch: 5
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+slurmstepd: error: *** JOB 21279562 ON eu-g4-004 CANCELLED AT 2023-07-14T02:28:31 ***

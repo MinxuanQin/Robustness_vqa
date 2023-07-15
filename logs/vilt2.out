@@ -1,0 +1,10 @@
+Begin of the test:  antonym_consistency
+Error size:  16
+Begin of the test:  ontological_consistency
+Error size:  34
+Begin of the test:  phrasal_invariance
+Error size:  46
+Begin of the test:  symmetry_invariance
+Error size:  30
+Begin of the test:  negation_consistency
+Error size:  36

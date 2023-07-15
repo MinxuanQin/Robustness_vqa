@@ -1,0 +1,20 @@
+Begin of the test:  antonym_consistency
+Running Time: 6.566896740333565 min
+Inference time for each sample: 0.039401380442001394 s
+Error size:  0
+Begin of the test:  ontological_consistency
+Running Time: 18.913160352015986 min
+Inference time for each sample: 0.03610530134015142 s
+Error size:  0
+Begin of the test:  phrasal_invariance
+Running Time: 23.093590969649572 min
+Inference time for each sample: 0.03903581975938061 s
+Error size:  0
+Begin of the test:  symmetry_invariance
+Running Time: 19.888679976900068 min
+Inference time for each sample: 0.04140024974375535 s
+Error size:  0
+Begin of the test:  negation_consistency
+Running Time: 12.382616350666892 min
+Inference time for each sample: 0.03714784905200067 s
+Error size:  0

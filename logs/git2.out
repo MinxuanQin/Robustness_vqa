@@ -1,0 +1,15 @@
+Begin of the test:  antonym_consistency
+Each sample:  0.10879878690970363
+Error size:  0
+Begin of the test:  ontological_consistency
+Each sample:  0.11225014514247719
+Error size:  0
+Begin of the test:  phrasal_invariance
+Each sample:  0.12488425874295805
+Error size:  0
+Begin of the test:  symmetry_invariance
+Each sample:  0.12854366782632595
+Error size:  0
+Begin of the test:  negation_consistency
+Each sample:  0.12159896037969738
+Error size:  0

@@ -1,0 +1,77 @@
+antonym_consistency
+10000
+ontological_consistency
+31430
+phrasal_invariance
+35496
+symmetry_invariance
+28824
+negation_consistency
+20000
+antonym_consistency     : accuracy: 0.250, directional_expectation : 0.774, comprehensive_accuracy: 0.198
+ontological_consistency : accuracy: 0.226, ontological_invariance  : 1.000, comprehensive_accuracy: 0.000
+phrasal_invariance      : accuracy: 0.147, invariance              : 0.256, comprehensive_accuracy: 0.064
+symmetry_invariance     : accuracy: 0.090, invariance              : 0.243, comprehensive_accuracy: 0.002
+negation_consistency    : accuracy: 0.248, directional_expectation : 0.731, comprehensive_accuracy: 0.171
+
+vilt total number: 125588
+should be: 125750
+for 'unknown' case:
+antonym_consistency     : accuracy: 0.722, directional_expectation : 0.624, comprehensive_accuracy: 0.565
+ontological_consistency : accuracy: 0.818, ontological_invariance  : 0.971, comprehensive_accuracy: 0.452
+phrasal_invariance      : accuracy: 0.587, invariance              : 0.915, comprehensive_accuracy: 0.761
+symmetry_invariance     : accuracy: 0.526, invariance              : 0.836, comprehensive_accuracy: 0.442
+negation_consistency    : accuracy: 0.516, directional_expectation : 0.324, comprehensive_accuracy: 0.259
+
+antonym_consistency     : accuracy: 0.666, wups: 0.736, p_acc: 0.779, p_wups: 0.825
+ontological_consistency : accuracy: 0.826, wups: 0.877, p_acc: 0.809, p_wups: 0.864
+phrasal_invariance      : accuracy: 0.588, wups: 0.734, p_acc: 0.587, p_wups: 0.733
+symmetry_invariance     : accuracy: 0.526, wups: 0.708, p_acc: 0.527, p_wups: 0.709
+negation_consistency    : accuracy: 0.632, wups: 0.698, p_acc: 0.400, p_wups: 0.526
+
+git total number: 125750
+antonym_consistency     : accuracy: 0.628, directional_expectation : 0.445, comprehensive_accuracy: 0.344
+ontological_consistency : accuracy: 0.777, ontological_invariance  : 0.979, comprehensive_accuracy: 0.427
+phrasal_invariance      : accuracy: 0.558, invariance              : 0.912, comprehensive_accuracy: 0.706
+symmetry_invariance     : accuracy: 0.468, invariance              : 0.820, comprehensive_accuracy: 0.407
+negation_consistency    : accuracy: 0.466, directional_expectation : 0.082, comprehensive_accuracy: 0.056
+
+antonym_consistency     : accuracy: 0.562, wups: 0.655, p_acc: 0.693, p_wups: 0.758
+ontological_consistency : accuracy: 0.768, wups: 0.830, p_acc: 0.786, p_wups: 0.845
+phrasal_invariance      : accuracy: 0.558, wups: 0.710, p_acc: 0.558, p_wups: 0.711
+symmetry_invariance     : accuracy: 0.467, wups: 0.657, p_acc: 0.468, p_wups: 0.658
+negation_consistency    : accuracy: 0.675, wups: 0.734, p_acc: 0.257, p_wups: 0.409
+
+visualBERT, resnet
+125588
+antonym_consistency     : accuracy: 0.538, directional_expectation : 0.297, comprehensive_accuracy: 0.174, wups: 0.635
+ontological_consistency : accuracy: 0.458, ontological_invariance  : 0.960, comprehensive_accuracy: 0.236, wups: 0.595
+phrasal_invariance      : accuracy: 0.399, invariance              : 0.952, comprehensive_accuracy: 0.474, wups: 0.612
+symmetry_invariance     : accuracy: 0.381, invariance              : 0.575, comprehensive_accuracy: 0.171, wups: 0.631
+negation_consistency    : accuracy: 0.476, directional_expectation : 0.050, comprehensive_accuracy: 0.030, wups: 0.583
+
+antonym_consistency     : accuracy: 0.294, wups: 0.442, p_acc: 0.782, p_wups: 0.828
+ontological_consistency : accuracy: 0.409, wups: 0.555, p_acc: 0.507, p_wups: 0.634
+phrasal_invariance      : accuracy: 0.400, wups: 0.613, p_acc: 0.397, p_wups: 0.612
+symmetry_invariance     : accuracy: 0.378, wups: 0.630, p_acc: 0.384, p_wups: 0.632
+negation_consistency    : accuracy: 0.458, wups: 0.566, p_acc: 0.494, p_wups: 0.600
+
+Blip total number: 125750
+
+antonym_consistency     : accuracy: 0.513, directional_expectation : 0.384, comprehensive_accuracy: 0.200, wups: 0.594
+ontological_consistency : accuracy: 0.570, ontological_invariance  : 0.935, comprehensive_accuracy: 0.255, wups: 0.669
+phrasal_invariance      : accuracy: 0.405, invariance              : 0.872, comprehensive_accuracy: 0.493, wups: 0.541
+symmetry_invariance     : accuracy: 0.315, invariance              : 0.668, comprehensive_accuracy: 0.232, wups: 0.464
+negation_consistency    : accuracy: 0.501, directional_expectation : 0.203, comprehensive_accuracy: 0.141, wups: 0.599
+
+antonym_consistency     : accuracy: 0.605, wups: 0.665, p_acc: 0.421, p_wups: 0.523
+ontological_consistency : accuracy: 0.610, wups: 0.700, p_acc: 0.530, p_wups: 0.637
+phrasal_invariance      : accuracy: 0.406, wups: 0.542, p_acc: 0.404, p_wups: 0.540
+symmetry_invariance     : accuracy: 0.316, wups: 0.464, p_acc: 0.314, p_wups: 0.464
+negation_consistency    : accuracy: 0.532, wups: 0.625, p_acc: 0.471, p_wups: 0.574
+
+first_time:
+symmetry_invariance     : accuracy: 0.317, invariance              : 0.688, comprehensive_accuracy: 0.232, wups: 0.467
+negation_consistency    : accuracy: 0.499, directional_expectation : 0.207, comprehensive_accuracy: 0.144, wups: 0.597
+symmetry_invariance     : accuracy: 0.319, wups: 0.469, p_acc: 0.315, p_wups: 0.465
+negation_consistency    : accuracy: 0.533, wups: 0.625, p_acc: 0.465, p_wups: 0.569

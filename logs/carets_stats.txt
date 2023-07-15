@@ -1,0 +1,69 @@
+duplication: 266
+duplication: 1504
+duplication: 381
+duplication: 78
+duplication: 362
+
+Original questions:  4607
+Original:  Is the jacket to the right of the black remote control black?
+Pair:  ['Is the jacket to the right of the black remote control white?']
+Original:  Does it seem that the gate behind the standing person is black?
+Pair:  ['Does it seem that the gate behind the standing person is white?']
+Original:  Does it look like the pants that are to the left of the blue designed sweater are black?
+Pair:  ['Does it look like the pants that are to the left of the blue designed sweater are white?']
+Original:  Does it look like the seat that is on the red motorcycle is black?
+Pair:  ['Does it look like the seat that is on the red motorcycle is white?']
+Original:  Does it look like the eye that is of the small still alligator is round?
+Pair:  ['Does it look like the eye that is of the small still alligator is square?']
+
+
+Original questions:  6688
+Original:  Do you see any pants?
+Pair:  ['Do you see any clothes?', 'Do you see any clothes?', 'Do you see any clothes?', 'Do you see any clothes?', 'Do you see any clothes?', 'Do you see any clothes?', 'Do you see any clothes?']
+Original:  Do you see a brown coat anywhere?
+Pair:  ['Do you see a brown raincoat anywhere?', 'Do you see a brown raincoat anywhere?', 'Do you see a brown jacket anywhere?']
+Original:  Do you see a bird anywhere?
+Pair:  ['Do you see a swan anywhere?', 'Do you see a goose anywhere?', 'Do you see a peacock anywhere?', 'Do you see a seagulls anywhere?', 'Do you see an ostrich anywhere?', 'Do you see a shuttle anywhere?', 'Do you see an animal anywhere?', 'Do you see an animal anywhere?', 'Do you see an animal anywhere?']
+Original:  Do you see a standing person anywhere?
+Pair:  ['Do you see a standing swimmer anywhere?', 'Do you see a standing students anywhere?', 'Do you see a standing farmer anywhere?', 'Do you see a standing workers anywhere?', 'Do you see a standing farmers anywhere?', 'Do you see a standing fisherman anywhere?', 'Do you see a standing worker anywhere?', 'Do you see a standing pedestrian anywhere?', 'Do you see a standing daughter anywhere?', 'Do you see a standing batter anywhere?']
+Original:  Is there a flying skateboard anywhere?
+Pair:  ['Is there a flying vehicle anywhere?']
+
+
+Original questions:  17007
+Original:  Is there both a table and a leaf in the photo?
+Pair:  ['Does it look like there is both a table and a leaf in the photo?']
+Original:  Does it look like there is both a water and any pants in the photo?
+Pair:  ['Does it look like there is both a water and any pants in this photo?']
+Original:  Do you see both a chair and a face?
+Pair:  ['Is there both a chair and a face?']
+Original:  Does it look like there is both a happy man and a sidewalk anywhere?
+Pair:  ['Do you see both a happy man and a sidewalk anywhere in the photo?']
+Original:  Is there both a word and a striped sign in the photo?
+Pair:  ['Do you see both a word and a striped sign anywhere in this photo?']
+
+
+Original questions:  14328
+Original:  Does it look like there is both a metal gate and a box anywhere in this photo?
+Pair:  ['Does it look like there is both a box and a metal gate anywhere in this photo?']
+Original:  Is there both a snow and a person anywhere in this photo?
+Pair:  ['Is there both a person and a snow anywhere in this photo?']
+Original:  Does it look like there is both a lush bush and any legs in this photo?
+Pair:  ['Does it look like there is both any legs and a lush bush in this photo?']
+Original:  Do you see both a woman and a white sign?
+Pair:  ['Do you see both a white sign and a woman?']
+Original:  Do you see both a jacket and a curly hair in the photo?
+Pair:  ['Do you see both a curly hair and a jacket in the photo?']
+
+
+Original questions:  9279
+Original:  Is there both a metal stainless steel tea kettle and a man in this photo?
+Pair:  ['Is there either no metal stainless steel tea kettle or no man in this photo?']
+Original:  Is there both a red plate and any papers?
+Pair:  ['Is there either no red plate or no papers?']
+Original:  Do you see both a door and a blue sign in this photo?
+Pair:  ['Do you see either no door or no blue sign in this photo?']
+Original:  Is there both a blue bed and a stuffed animals?
+Pair:  ['Is there either no blue bed or no stuffed animals?']
+Original:  Does it look like there is both a blue shirt and a gravel anywhere in this photo?
+Pair:  ['Does it look like there is either no blue shirt or no gravel anywhere in this photo?']

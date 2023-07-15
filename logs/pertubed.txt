@@ -1,0 +1,265 @@
+Original questions:  4607
+Original:  Would you say that the cart is black?
+Pair:  ['Would you say that the cart is white?']
+Original:  Do you think the boat is small?
+Pair:  ['Do you think the boat is large?']
+Original:  Would you say that the branches to the right of the reflected city are small?
+Pair:  ['Would you say that the branches to the right of the reflected city are large?']
+Original:  Do you think the giraffe in the photo is large?
+Pair:  ['Do you think the giraffe in the photo is small?']
+Original:  Would you say that the brush in the photo is thick?
+Pair:  ['Would you say that the brush in the photo is thin?']
+Original:  Would you say that the sink to the right of the modern small oven is black?
+Pair:  ['Would you say that the sink to the right of the modern small oven is white?']
+Original:  Does it seem that the street sign is black?
+Pair:  ['Does it seem that the street sign is white?']
+Original:  Would you say that the cat reflected in the mirror is white?
+Pair:  ['Would you say that the cat reflected in the mirror is black?']
+Original:  Does it look like the pillow in this photo is large?
+Pair:  ['Does it look like the pillow in this photo is small?']
+Original:  Do you think the tail is short?
+Pair:  ['Do you think the tail is long?']
+Original:  Is the sand in the photo wet?
+Pair:  ['Is the sand in the photo dry?']
+Original:  Do you think the uniform in this photo is black?
+Pair:  ['Do you think the uniform in this photo is white?']
+Original:  Is the food truck parked in the parking lot black?
+Pair:  ['Is the food truck parked in the parking lot white?']
+Original:  Does it seem that the hair is soft?
+Pair:  ['Does it seem that the hair is hard?']
+Original:  Does it look like the blanket in the photo is white?
+Pair:  ['Does it look like the blanket in the photo is black?']
+Original:  Is the horse covered with the blanket black?
+Pair:  ['Is the horse covered with the blanket white?']
+Original:  Would you say that the fence is tall?
+Pair:  ['Would you say that the fence is short?']
+Original:  Does it look like the umbrella in this photo is long?
+Pair:  ['Does it look like the umbrella in this photo is short?']
+Original:  Is the sign to the left of the open umbrella white?
+Pair:  ['Is the sign to the left of the open umbrella black?']
+Original:  Is the screen in the photo large?
+Pair:  ['Is the screen in the photo small?']
+Original:  Do you think the goat is small?
+Pair:  ['Do you think the goat is large?']
+Original:  Do you think the rug in the bathroom is white?
+Pair:  ['Do you think the rug in the bathroom is black?']
+Original:  Would you say that the television to the right of the jeans is black?
+Pair:  ['Would you say that the television to the right of the jeans is white?']
+Original:  Is the surfboard on the spraying water black?
+Pair:  ['Is the surfboard on the spraying water white?']
+Original:  Do you think the town in the photo is small?
+Pair:  ['Do you think the town in the photo is large?']
+
+
+Original questions:  6688
+Original:  Do you see a blue shirt in this photo?
+Pair:  ['Do you see a blue clothes in this photo?', 'Do you see a blue clothes in this photo?', 'Do you see a blue clothes in this photo?', 'Do you see a blue clothes in this photo?', 'Do you see a blue clothes in this photo?', 'Do you see a blue clothes in this photo?']
+Original:  Does it look like there is a bare tree in the photo?
+Pair:  ['Does it look like there is a bare plant in the photo?']
+Original:  Which sort of person do you see in front of the catcher, a man, or a batter?
+Pair:  ['Which sort of person do you see in front of the athlete, a man, or a batter?']
+Original:  Does it look like there is a white car in the photo?
+Pair:  ['Does it look like there is a white vehicle in the photo?']
+Original:  What would you call the pose that the jockey is that is riding the horse doing, jumping or sitting?
+Pair:  ['What would you call the pose that the jockey is that is riding the animal doing, jumping or sitting?']
+Original:  Do you see a painted bird in this photo?
+Pair:  ['Do you see a painted swan in this photo?']
+Original:  What type of vehicle is behind the horse, a motorcycle, a truck, or a van?
+Pair:  ['What type of vehicle is behind the animal, a motorcycle, a truck, or a van?']
+Original:  Are there any horses anywhere in the photo?
+Pair:  ['Are there any animals anywhere in the photo?']
+Original:  Which style is the egg that is on the diced potatoes, scrambled, fried or boiled?
+Pair:  ['Which style is the egg that is on the diced food, scrambled, fried or boiled?']
+Original:  Does it look like there is a pine tree anywhere in this photo?
+Pair:  ['Does it look like there is a plant anywhere in this photo?', 'Does it look like there is a plant anywhere in this photo?']
+Original:  Do you see a standing striped zebra in the photo?
+Pair:  ['Do you see a standing striped animal in the photo?']
+Original:  Does it look like there is a blue boat?
+Pair:  ['Does it look like there is a blue vehicle?']
+Original:  Do you think the material of the shiny fork to the left of the brown donut is more plastic, wood or metal?
+Pair:  ['Do you think the material of the shiny fork to the left of the brown food is more plastic, wood or metal?']
+Original:  Does it look like there is a standing man in the photo?
+Pair:  ['Does it look like there is a standing person in the photo?', 'Does it look like there is a standing person in the photo?', 'Does it look like there is a standing person in the photo?']
+Original:  Do you see a black t-shirt anywhere?
+Pair:  ['Do you see a black clothes anywhere?']
+Original:  Which sort of color is the striped canopy on the long rusty boat, blue, white or green?
+Pair:  ['Which sort of color is the striped canopy on the long rusty vehicle, blue, white or green?']
+Original:  Do you see a white shirt anywhere in the photo?
+Pair:  ['Do you see a white clothes anywhere in the photo?', 'Do you see a white clothes anywhere in the photo?', 'Do you see a white clothes anywhere in the photo?', 'Do you see a white clothes anywhere in the photo?']
+Original:  Is there a skateboarding man?
+Pair:  ['Is there a skateboarding person?']
+Original:  What would you call the person that is wearing the blue jeans, a woman, a man, or a boy?
+Pair:  ['What would you call the person that is wearing the blue clothes, a woman, a man, or a boy?']
+Original:  Do you see an airplane anywhere in this photo?
+Pair:  ['Do you see a vehicle anywhere in this photo?', 'Do you see an aircraft anywhere in this photo?', 'Do you see an aircraft anywhere in this photo?', 'Do you see an aircraft anywhere in this photo?', 'Do you see a vehicle anywhere in this photo?']
+Original:  Is there a polo shirt anywhere in this photo?
+Pair:  ['Is there any clothes anywhere in this photo?', 'Is there any clothes anywhere in this photo?']
+Original:  Do you see a lying sheep?
+Pair:  ['Do you see a lying animal?']
+Original:  Is there a cow in this photo?
+Pair:  ['Is there an animal in this photo?', 'Is there an animal in this photo?', 'Is there an animal in this photo?']
+Original:  Do you see a small car in this photo?
+Pair:  ['Do you see a small vehicle in this photo?']
+Original:  Do you think the vehicle to the left of the skinny cat is a bike, or a truck?
+Pair:  ['Do you think the vehicle to the left of the skinny animal is a bike, or a truck?']
+
+
+Original questions:  17007
+Original:  Which kind of food is rough, a cake, or a pizza?
+Pair:  ['Is the rough food, a cake, or a pizza?']
+Original:  Do you see either a spinach or a pizza?
+Pair:  ['Does it look like there is either a spinach or a pizza in the photo?']
+Original:  Do you see either a fence or a shirt anywhere?
+Pair:  ['Do you see either a fence or a shirt anywhere in the photo?']
+Original:  Is there a tall tree anywhere in this photo?
+Pair:  ['Do you see a tall tree?']
+Original:  Do you see either a man or a hat?
+Pair:  ['Do you see either a man or a hat anywhere?']
+Original:  Is there a long padded bench in this photo?
+Pair:  ['Do you see a long padded bench in this photo?']
+Original:  Which mood is the person that is wearing the jeans, happy or angry?
+Pair:  ['What type of mood is the person wearing the jeans, happy or angry?']
+Original:  What sort of vehicle is in the parking lot, a boat, a car, or a motorcycle?
+Pair:  ['Would you call the vehicle in the parking lot, a boat, a car, or a motorcycle?']
+Original:  Is there a gray cat that is in the car in this photo?
+Pair:  ['Is there a gray cat that is in the car in the photo?']
+Original:  Is the food on the gray counter a cereal, a tomato, or a cake?
+Pair:  ['What kind of food do you see is on the gray counter, a cereal, a tomato, or a cake?']
+Original:  Does it look like there is a container?
+Pair:  ['Does it look like there is a container in this photo?']
+Original:  What type of vehicles are orange, bikes, or cars?
+Pair:  ['Are the vehicles that is orange, bikes, or cars?']
+Original:  Does it look like there is either a door or a chair in the photo?
+Pair:  ['Is there either a door or a chair anywhere in the photo?', 'Is there either a door or a chair in this photo?']
+Original:  Do you see both a person and any trees in the photo?
+Pair:  ['Do you see both a person and any trees in this photo?']
+Original:  What mood do you think the woman wearing the tank top is, happy or sad
+Pair:  ['What would you call the mood of the woman that is wearing the tank top, happy or sad?']
+Original:  Does it look like there is a white surfboard?
+Pair:  ['Do you see a white surfboard anywhere in the photo?']
+Original:  Is there a large wet sand below the walking bird in the photo?
+Pair:  ['Does it look like there is a large wet sand below the walking bird in this photo?']
+Original:  Which color is the pants that is to the left of the red jacket, tan or white?
+Pair:  ['Which type of color is the pants to the left of the red jacket, tan or white?']
+Original:  Do you see either a sign or a car?
+Pair:  ['Does it look like there is either a sign or a car?']
+Original:  Does it look like there is both a floral plate and a glass anywhere in the photo?
+Pair:  ['Do you see both a floral plate and a glass anywhere?']
+Original:  Does it look like there is a transparent glass?
+Pair:  ['Is there a transparent glass anywhere in the photo?']
+Original:  Is there both a sink and a door in this photo?
+Pair:  ['Do you see both a sink and a door in the photo?']
+Original:  What kind of person do you see is wearing the colorful helmet, a girl, a skateboarder, or a man?
+Pair:  ['What would you call the person that is wearing the colorful helmet, a girl, a skateboarder, or a man?']
+Original:  Which sort of pose is the adult black cow doing, lying or standing?
+Pair:  ['What pose is the adult black cow doing, lying or standing?']
+Original:  Would you say that the material of the gas silver grill to the right of the man is vinyl or steel?
+Pair:  ['Do you think the material of the gas silver grill to the right of the man is vinyl or steel?']
+
+
+Original questions:  14328
+Original:  Which sort of vehicle is orange, a sailboat, a motorcycle, or a taxi?
+Pair:  ['Which sort of vehicle is orange, a motorcycle, a taxi, or a sailboat?']
+Original:  What would you call the kind of color that the wood chair is, orange or brown?
+Pair:  ['What would you call the kind of color that the wood chair is, brown or orange?']
+Original:  Do you see either a horse or a stump?
+Pair:  ['Do you see either a stump or a horse?']
+Original:  Do you see either a small car or a stop sign anywhere?
+Pair:  ['Do you see either a stop sign or a small car anywhere?']
+Original:  Would you say the person to the left of the brown horse is a skier, or men?
+Pair:  ['Would you say the person to the left of the brown horse is men, or a skier?']
+Original:  What food is cooked and green, an orange, beans, or a pasta?
+Pair:  ['What food is cooked and green, beans, a pasta, or an orange?']
+Original:  Does it look like there is both a man and a walking woman anywhere in this photo?
+Pair:  ['Does it look like there is both a walking woman and a man anywhere in this photo?']
+Original:  Does it look like there is both a fur and any bubbles anywhere in this photo?
+Pair:  ['Does it look like there is both any bubbles and a fur anywhere in this photo?']
+Original:  What would you call the person that is standing by the fire hydrant, a visitor, or a guy?
+Pair:  ['What would you call the person that is standing by the fire hydrant, a guy, or a visitor?']
+Original:  Would you say that the red food is an orange, a donut, or a sauce?
+Pair:  ['Would you say that the red food is a donut, a sauce, or an orange?']
+Original:  Does it look like there is either a gray pole or a sign in this photo?
+Pair:  ['Does it look like there is either a sign or a gray pole in this photo?']
+Original:  What color do you think the ceramic toilet is, white, beige or blue
+Pair:  ['What color do you think the ceramic toilet is, white, blue or beige']
+Original:  Which vehicle is long, a boat, or a motorcycle?
+Pair:  ['Which vehicle is long, a motorcycle, or a boat?']
+Original:  Which color is the large tree trunk, gray, brown or black?
+Pair:  ['Which color is the large tree trunk, gray, black or brown?']
+Original:  Is the standing person, a surfer, or a girl?
+Pair:  ['Is the standing person, a girl, or a surfer?']
+Original:  Which sort of material is the white saucer to the right of the croissant, steel, vinyl or ceramic?
+Pair:  ['Which sort of material is the white saucer to the right of the croissant, vinyl, steel or ceramic?']
+Original:  What mood do you think the man in front of the lamp is, happy, angry or sad
+Pair:  ['What mood do you think the man in front of the lamp is, sad, happy or angry']
+Original:  Which sort of color is the unpeeled banana, yellow, brown or green?
+Pair:  ['Which sort of color is the unpeeled banana, brown, green or yellow?']
+Original:  What type of vehicle is blue, a car, or a bike?
+Pair:  ['What type of vehicle is blue, a bike, or a car?']
+Original:  Would you say that the color of the stacked rocks is gray, brown or black?
+Pair:  ['Would you say that the color of the stacked rocks is brown, gray or black?']
+Original:  Is there either a blue sign or a hair anywhere?
+Pair:  ['Is there either a hair or a blue sign anywhere?']
+Original:  Is there both a white steam and a coach anywhere in this photo?
+Pair:  ['Is there both a coach and a white steam anywhere in this photo?']
+Original:  Which sort of food is melted and white, a cheese, an apple, or a pizza?
+Pair:  ['Which sort of food is melted and white, a pizza, an apple, or a cheese?']
+Original:  Is there either a screen or a brown table?
+Pair:  ['Is there either a brown table or a screen?']
+Original:  Do you see both a green hat and a wood pole anywhere?
+Pair:  ['Do you see both a wood pole and a green hat anywhere?']
+
+
+Original questions:  9279
+Original:  Do you see a cabinet in this photo?
+Pair:  ['Do you see no cabinet in this photo?', 'Do you see no cabinet in this photo?']
+Original:  Does it look like there is a lady that is wearing the cap anywhere in the photo?
+Pair:  ['Does it look like there is no lady that is wearing the cap anywhere in the photo?']
+Original:  Does it look like there is a walking woman above the man anywhere?
+Pair:  ['Does it look like there is no walking woman above the man anywhere?']
+Original:  Do you see any seeds that are inside the white bread anywhere in this photo?
+Pair:  ['Do you see no seeds that are inside the white bread anywhere in this photo?']
+Original:  Is there a flowered dress of the man?
+Pair:  ['Is there no flowered dress of the man?']
+Original:  Does it look like there is a blue sign?
+Pair:  ['Does it look like there is no blue sign?']
+Original:  Does it look like there is either a small window or a red sign anywhere in this photo?
+Pair:  ['Does it look like there is no small window and no red sign anywhere in this photo?']
+Original:  Do you see either a white tower or a man anywhere in this photo?
+Pair:  ['Do you see no white tower and no man anywhere in this photo?']
+Original:  Is there a horn that is to the left of the furry cow in this photo?
+Pair:  ['Is there no horn that is to the left of the furry cow in this photo?']
+Original:  Is there a cat that is lying on the television in this photo?
+Pair:  ['Is there no cat that is lying on the television in this photo?']
+Original:  Does it look like there is a man that is in the snow in this photo?
+Pair:  ['Does it look like there is no man that is in the snow in this photo?']
+Original:  Is there a curtain that is to the left of the mirror anywhere in this photo?
+Pair:  ['Is there no curtain that is to the left of the mirror anywhere in this photo?']
+Original:  Is there a snow?
+Pair:  ['Is there no snow?']
+Original:  Is there either a lush tree or a standing woman anywhere?
+Pair:  ['Is there no lush tree and no standing woman anywhere?']
+Original:  Is there a surfing swimming man in the blue water anywhere in this photo?
+Pair:  ['Is there no surfing swimming man in the blue water anywhere in this photo?']
+Original:  Is there either a tree or a closed door?
+Pair:  ['Is there no tree and no closed door?']
+Original:  Do you see a woman that is on top of the brown table anywhere in this photo?
+Pair:  ['Do you see no woman that is on top of the brown table anywhere in this photo?']
+Original:  Does it look like there is a blue shirt?
+Pair:  ['Does it look like there is no blue shirt?']
+Original:  Is there a walking man in this photo?
+Pair:  ['Is there no walking man in this photo?']
+Original:  Do you see both a sign and a window anywhere?
+Pair:  ['Do you see either no sign or no window anywhere?']
+Original:  Does it look like there is a sand anywhere in this photo?
+Pair:  ['Does it look like there is no sand anywhere in this photo?']
+Original:  Is there a bowl filled with the berry in the photo?
+Pair:  ['Is there no bowl filled with the berry in the photo?']
+Original:  Do you see a round white onion near the orange sauce anywhere in the photo?
+Pair:  ['Do you see no round white onion near the orange sauce anywhere in the photo?']
+Original:  Does it look like there is both an oven and a white cake anywhere in this photo?
+Pair:  ['Does it look like there is either no oven or no white cake anywhere in this photo?']
+Original:  Is there both a standing chair and a ring anywhere in this photo?
+Pair:  ['Is there either no standing chair or no ring anywhere in this photo?']
+
+

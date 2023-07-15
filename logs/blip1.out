@@ -1,0 +1,8 @@
+Begin of the test:  symmetry_invariance
+Running Time: 19.567088243316782 min
+Inference time for each sample: 0.04073082481956033 s
+Error size:  0
+Begin of the test:  negation_consistency
+Running Time: 12.290810646950073 min
+Inference time for each sample: 0.03687243194085022 s
+Error size:  0

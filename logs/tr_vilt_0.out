@@ -1,0 +1,245 @@
+wandb: Currently logged in as: minxuan. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.15.5
+wandb: Run data is saved locally in /cluster/scratch/minqin/hf_vqa/CARETS/wandb/run-20230713_121616-1nhlh6ep
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run amber-brook-7
+wandb: ⭐️ View project at https://wandb.ai/minxuan/carets-antonym_consistency
+wandb: 🚀 View run at https://wandb.ai/minxuan/carets-antonym_consistency/runs/1nhlh6ep
+Begin of the test:  antonym_consistency
+Epoch: 0
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 1
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 2
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 3
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 4
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 5
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 6
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 7
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 8
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Epoch: 9
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+load error
+/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/transformers/models/vilt/image_processing_vilt.py:357: FutureWarning: This method is deprecated and will be removed in v4.26.0. Please use pad instead.
+  warnings.warn(
+load error
+load error
+load error
+load error
+Complete predictions:  1996
+Traceback (most recent call last):
+  File "/cluster/scratch/minqin/hf_vqa/CARETS/train_vilt.py", line 136, in <module>
+    train_set, valid_set = torch.utils.data.random_split(dataset, [train_size, valid_size])
+  File "/cluster/scratch/minqin/.python_venv/vqa/lib64/python3.10/site-packages/torch/utils/data/dataset.py", line 353, in random_split
+    raise ValueError("Sum of input lengths does not equal the length of the input dataset!")
+ValueError: Sum of input lengths does not equal the length of the input dataset!
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: 
+wandb: Run history:
+wandb: loss ▇▅█▅▁▂▂▃▁▁▂▁▁▁▃▃▁▁▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb: loss 0.00014
+wandb: 
+wandb: 🚀 View run amber-brook-7 at: https://wandb.ai/minxuan/carets-antonym_consistency/runs/1nhlh6ep
+wandb: Synced 5 W&B file(s), 0 media file(s), 2 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230713_121616-1nhlh6ep/logs

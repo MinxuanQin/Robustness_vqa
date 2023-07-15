@@ -1,0 +1,55 @@
+all answers only contain 1 word
+they are 904 words which is not in pretrained models [should also be deleted]
+
+for predictions: they are all in pretrained models [which must be]
+in vilt: 563 answers length is not 1
+
+sent_sort = ontological
+example: pred is 'brown and white' for original and perturbed questions, which is reasonable from human perspective
+{'img_id': '2359967', 'label': {'white': 1.0}, 'question_id': 39139, 'sent': 'Which color do you think the cow near the brown horse->animal is, white or brown', 'question_type': 'attribute_rel1_choice', 'assignment': {'2rel1': 'near', 'attrs1': [], 'attrs2': ['brown'], 'category-options1': ['white', 'brown'], 'category1': 'color', 'obj1': 'cow', 'obj1_id': '790292', 'obj2': 'horse', 'obj2_id': '790291'}, 'paired_question_id': 39523, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2359967.jpg', 'perturbed': False}
+
+example: pred is 'hot dog', which is false, but perturbed question is also not reasonable
+{'img_id': '2345076', 'label': {'bun': 1.0}, 'question_id': 40724, 'sent': 'What sort of food is with the hot dog, sprinkles, a bun, or a peach?', 'question_type': 'object_rel1_choice', 'assignment': {'2rel1': 'with', 'attrs2': [], 'obj-category-options1': ['sprinkles', 'bun', 'peach'], 'obj-category1': 'food', 'obj1': 'bun', 'obj1_id': '3022279', 'obj2': 'hot dog', 'obj2_id': '2941184'}, 'paired_question_id': 40739, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2345076.jpg', 'perturbed': False}
+
+example: pred is 'hot dog', which is read from the image, and not understand the question
+{'img_id': '2395301', 'label': {'sausage': 1.0}, 'question_id': 40390, 'sent': 'Do you think the meat in the brown bun is a sausage, or a bacon?', 'question_type': 'object_rel1_choice', 'assignment': {'2rel1': 'in', 'attrs2': ['brown'], 'obj-category-options1': ['sausage', 'bacon'], 'obj-category1': 'meat', 'obj1': 'sausage', 'obj1_id': '456031', 'obj2': 'bun', 'obj2_id': '456032'}, 'paired_question_id': 40930, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2395301.jpg', 'perturbed': False}
++1 from 
+{'img_id': '2409878', 'label': {'no': 1.0}, 'question_id': 113912, 'sent': 'Does it look like there is either a black shoe or a chain-link fence?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['black'], 'attrs2': ['chain-link'], 'obj1': 'shoe', 'obj1_id': None, 'obj2': 'fence', 'obj2_id': None}, 'paired_question_id': 115151, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2409878.jpg', 'perturbed': False}
+
+example: pred is 'laying down', which is correct, but not fully understand the context
+{'img_id': '2379404', 'label': {'lying': 1.0}, 'question_id': 38031, 'sent': 'Which kind of pose is the dog that is looking at the black lying animal doing, sitting or lying?', 'question_type': 'action_rel1_choice', 'assignment': {'2rel1': 'looking at', 'attrs1': [], 'attrs2': ['black', 'lying'], 'category-options1': ['sitting', 'lying'], 'category1': 'pose', 'obj1': 'dog', 'obj1_id': '1357846', 'obj2': 'animal', 'obj2_id': '1357845'}, 'paired_question_id': 37908, 'perturbed': True, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2379404.jpg'}
+
+
+negation example: the answer is correct, it can not understand the reasoning structure perhaps
+orig_pred = 'palm tree', per_pred = 'yes'; orig_label = 'yes', per_label = 'no'
+{'img_id': '2342518', 'label': {'yes': 1.0}, 'question_id': 114927, 'sent': 'Does it look like there is either a black outfit or a palm tree anywhere in the photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['black'], 'attrs2': [], 'obj1': 'outfit', 'obj1_id': '2387015', 'obj2': 'palm tree', 'obj2_id': '3514957'}, 'paired_question_id': 113254, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2342518.jpg', 'perturbed': False}
++ it can not understand the negation in perturbed question
+
+another same example: 'stop sign'
+{'img_id': '2327007', 'label': {'yes': 1.0}, 'question_id': 113281, 'sent': 'Is there either a little sign or a fire hydrant in the photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['little'], 'attrs2': [], 'obj1': 'sign', 'obj1_id': None, 'obj2': 'fire hydrant', 'obj2_id': '3974943'}, 'paired_question_id': 115086, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2327007.jpg', 'perturbed': False}
+
+successful example: answer in orig is more precise, but still not identify it's a yes/no question
+pred = 'clock tower'
+{'img_id': '2404793', 'label': {'yes': 1.0}, 'question_id': 114528, 'sent': 'Do you see either a white tower or a man anywhere in this photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['white'], 'attrs2': [], 'obj1': 'tower', 'obj1_id': '1113064', 'obj2': 'man', 'obj2_id': None}, 'paired_question_id': 112687, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2404793.jpg', 'perturbed': False}
+
+So is the answer 'no' from reasoning, or it is just copy paste from the question?
+
+similar: 
+pred = 'fire hydrant'
+{'img_id': '2350955', 'label': {'yes': 1.0}, 'question_id': 114267, 'sent': 'Does it look like there is either a red fire hydrant or a window in the photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['red'], 'attrs2': [], 'obj1': 'fire hydrant', 'obj1_id': '864137', 'obj2': 'window', 'obj2_id': '864145'}, 'paired_question_id': 111872, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2350955.jpg', 'perturbed': False}
+{'img_id': '2387481', 'label': {'yes': 1.0}, 'question_id': 114160, 'sent': 'Is there either a menu or a clear empty wine glass in the photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': [], 'attrs2': ['clear', 'empty'], 'obj1': 'menu', 'obj1_id': '677930', 'obj2': 'wine glass', 'obj2_id': '677931'}, 'paired_question_id': 115559, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2387481.jpg', 'perturbed': False}
+
+negation example: the question could also have issue
+orig_pred = 'ski poles', per_pred = 'no'
+recognise the ski
+{'img_id': '2366066', 'label': {'no': 1.0}, 'question_id': 111093, 'sent': 'Do you see either a black pole or a jacket in this photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['black'], 'attrs2': [], 'obj1': 'pole', 'obj1_id': None, 'obj2': 'jacket', 'obj2_id': None}, 'paired_question_id': 111157, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2366066.jpg', 'perturbed': False}
+
+
+recognise the color, but interfered by the question, pred='stop sign', stop_sign1; sign is a hard word for the model
+{'img_id': '2409484', 'label': {'no': 1.0}, 'question_id': 114953, 'sent': 'Do you see either a white sign or a red pole in this photo?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['white'], 'attrs2': ['red'], 'obj1': 'sign', 'obj1_id': None, 'obj2': 'pole', 'obj2_id': None}, 'paired_question_id': 113171, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2409484.jpg', 'perturbed': False}
+
+just copy paste the question; perturbed question is false
+'chain link'
+{'img_id': '2409878', 'label': {'no': 1.0}, 'question_id': 113912, 'sent': 'Does it look like there is either a black shoe or a chain-link fence?', 'question_type': 'object_verification_disjunction_1_attrs', 'assignment': {'attrs1': ['black'], 'attrs2': ['chain-link'], 'obj1': 'shoe', 'obj1_id': None, 'obj2': 'fence', 'obj2_id': None}, 'paired_question_id': 115151, 'image_path': '/cluster/scratch/minqin/hf_vqa/CARETS/data/images/2409878.jpg', 'perturbed': False}
+
+

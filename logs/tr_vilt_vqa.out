@@ -1,0 +1,17 @@
+Found cached dataset vq_av2 (/cluster/scratch/minqin/hf_vqa/cache/HuggingFaceM4___vq_av2/default/1.0.0/e4d008385143be7a6bd81e99483e671d5096942bcb987542217121a5ac2cb420)
+Found cached dataset vq_av2 (/cluster/scratch/minqin/hf_vqa/cache/HuggingFaceM4___vq_av2/default/1.0.0/e4d008385143be7a6bd81e99483e671d5096942bcb987542217121a5ac2cb420)
+Beginn evaluation, length of dataset: 5000
+Load error
+Load error
+Load error
+Load error
+Load error
+Load error
+Load error
+Load error
+Load error
+Accuracy: 0.3576437587657784
+WUPS: 0.47052127852675246
+Score: 0.4213584452013619
+error time: 9
+End evaluation
