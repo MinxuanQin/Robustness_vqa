@@ -13,3 +13,4 @@ nltk
 torchsummary
 matplotlib
 omegaconf
+streamlit
