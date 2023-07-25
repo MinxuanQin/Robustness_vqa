@@ -1,5 +1,5 @@
 # Exploring robustness and consistency of multimodal VQA models
-course project of CSNLP at ETH, FS 2023, hugging face demo see [link](https://huggingface.co/spaces/Minqin/carets_finetune_vqa).
+course project of CSNLP at ETH, FS 2023, hugging face demo see [this link](https://huggingface.co/spaces/CS4NLP/vqa_demo) and [this link](https://huggingface.co/spaces/Minqin/carets_finetune_vqa).
 
 ## Set up
 For running on ETH Euler cluster, please run first `env_setup.sh` to install required packages. If needed, `hf_env_script.sh` contains definitions of environment variables for Hugging Face cache management.
